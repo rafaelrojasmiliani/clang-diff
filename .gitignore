@@ -1,0 +1,9 @@
+.*.swp
+.*.swo
+GPATH
+GRTAGS
+GTAGS
+tags
+.cache
+cmake-*
+compile_commands.json
